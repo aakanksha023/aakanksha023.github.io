@@ -9,7 +9,8 @@ Work experience in Social Enterprise
 
 ### More Information
 
- Passionate about working in the education industry and making quality education affordable. In my free time I enjoy Scuba Diving (though I'm a terrible swimmer!), re-reading Harry Potter and Sherlock Holmes. Ocassionally peddle into the Anthropology and sometimes doing nothing!
+Passionate about working in the education industry and making quality education affordable.
+In my free time I enjoy Scuba Diving (though I'm a terrible swimmer!), re-reading Harry Potter and Sherlock Holmes. Ocassionally peddle into Anthropology and almost always enjoy doing nothing!
 
 ### Contact me
 
