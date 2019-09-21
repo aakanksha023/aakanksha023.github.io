@@ -6,10 +6,10 @@
 name: Aakanksha Dimri
 
 # Short bio or description (displayed in the header)
-description: Master of Data Science candidate, UBC Vancouver
+description: Masters of Data Science candidate, UBC Vancouver
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/17456431?s=400&v=4
+avatar: https://avatars3.githubusercontent.com/u/17456431?s=400&u=b67fcba8c400d5403b185a34af8c626ab417edbc&v=4
 
 #
 # Flags below are optional
@@ -17,20 +17,9 @@ avatar: https://avatars0.githubusercontent.com/u/17456431?s=400&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  email: aakanksha023@gmail.com
+  github: https://github.com/aakanksha023
+  linkedin: https://www.linkedin.com/in/aakanksha-dimri-5bb26b17
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
